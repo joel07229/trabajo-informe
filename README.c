@@ -1,4 +1,3 @@
-# trabajo-informe
 #include <stdio.h>
 #include <string.h>
 
